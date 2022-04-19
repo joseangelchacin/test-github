@@ -15,4 +15,6 @@ Dar permisos a dasensio-codehouse
 
 Desarrollador patoso: Provocar un conflicto
 
+# El desarrollador patoso tocó por aquí
+
 Realizar la misma práctica en Azure DevOps
